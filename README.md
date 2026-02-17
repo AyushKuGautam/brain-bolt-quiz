@@ -35,15 +35,15 @@ To solve the **ping-pong instability** (rapid oscillation between difficulty lev
 ## 🏃 Setup & Installation
 
 ### Option 1: Docker 
-Ensure you are in the project root and run:
-docker compose up --build
+Ensure you are in the project root and run:<br>
+docker compose up --build<br>
 The app will be available at http://localhost:3000
 
 ### Option 2: Local Development
-# 1. Install dependencies
+#### 1. Install dependencies
 npm install
 
-# 2. Start development server
+#### 2. Start development server
 npm run dev
 
 ## 📖 Documentation Links
